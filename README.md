@@ -1,6 +1,6 @@
 # Reddit Classification System
 
-The task was to use approprriate models to determine which subreddit comments originated from. I used PCA and hypertuned the parameters to get the appropriate result.
+The task was to use appropriate models to determine which subreddit comments originated from. I used PCA and hypertuned the parameters to get the appropriate result.
 
 # Dataset
 
